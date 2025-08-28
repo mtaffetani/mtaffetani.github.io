@@ -2,10 +2,10 @@
 layout: page
 title: Projects and Interestsss
 permalink: /projects/
-description:
+description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
-display_categories: [Research, Fun]
+display_categories: [work, fun]
 horizontal: false
 ---
 
