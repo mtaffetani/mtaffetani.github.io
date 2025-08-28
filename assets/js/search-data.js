@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-morphing-systems-and-soft-matter",
+    title: "Morphing Systems and Soft Matter",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
