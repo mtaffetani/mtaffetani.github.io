@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects and Interests
+title: Projects and Interestsss
 permalink: /projects/
 description:
 nav: true
