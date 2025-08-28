@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-morphing-systems-and-soft-matter",
-    title: "Morphing Systems and Soft Matter",
+    id: "nav-mssm",
+    title: "MSSM",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -16,9 +16,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects-and-interests",
-          title: "Projects and Interests",
-          description: "",
+        },{id: "nav-projects-and-interestsss",
+          title: "Projects and Interestsss",
+          description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -38,8 +38,8 @@ ninja.data = [{
             window.location.href = "/teaching/";
           },
         },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
+          title: "People",
+          description: "Members and Friends of MSSM",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
