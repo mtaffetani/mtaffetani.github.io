@@ -1,6 +1,6 @@
 ---
-layout: MSSM
-title: Morphing Systems and Soft Matter
+layout: about
+title: MSSM
 permalink: /
 subtitle: from mathematical models to physical insights in morphing strategies in biological and artificial active systems 
 
