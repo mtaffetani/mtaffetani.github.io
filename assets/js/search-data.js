@@ -412,8 +412,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-abstract-submission-for-the-workshop-slender-and-active-mechanics-of-emerging-materials-and-systems-in-edinburgh-on-the-4th-of-december-2025-is-now-open",
+          title: 'Abstract submission for the workshop Slender and Active: Mechanics of Emerging Materials and...',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
