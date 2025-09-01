@@ -417,8 +417,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/Xannouncement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-new-arxiv-paper-out-will-unlocked-the-the-role-of-the-non-linear-coupling-between-imperfection-and-oscillations-in-the-hierarchy-of-timescales-characterizing-the-dynamic-of-snap-through-in-arches-when-it-emerges-from-either-a-limit-point-bifurcation-or-a-pitchfork-bifurcation",
+          title: 'New arxiv paper out. Will unlocked the the role of the non-linear coupling...',
           description: "",
           section: "News",},{id: "news-abstract-submission-for-the-workshop-slender-and-active-mechanics-of-emerging-materials-and-systems-in-edinburgh-on-the-4th-of-december-2025-is-now-open",
           title: 'Abstract submission for the workshop Slender and Active: Mechanics of Emerging Materials and...',
