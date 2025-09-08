@@ -1,0 +1,31 @@
+/*New*/
+
+.stuff {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  word-break: break-all;
+}
+
+.stuff img {
+  width: 120px;
+  height: 120px;
+  border-radius: 10%;
+  margin-right: 20px;
+  background-color: white;
+}
+
+.section h2 {
+    display: flex;
+    justify-content: end;
+}
+
+.info h3 {
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+.info p {
+  font-size: 14px;
+  color: #555;
+}
