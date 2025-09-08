@@ -39,7 +39,6 @@ layout: default
     {% endif %}
 
     <div class="clearfix">{{ content }}</div>
-
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
       <h2>
@@ -47,7 +46,9 @@ layout: default
       </h2>
       {% include news.liquid limit=true %}
     {% endif %}
-
+    
+    {% comment %}
+    new - old
     <!-- Latest posts -->
     {% if page.latest_posts and page.latest_posts.enabled %}
       <h2>
@@ -76,5 +77,6 @@ layout: default
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}
     {% endif %}
+    {% endcomment %}
   </article>
 </div>
