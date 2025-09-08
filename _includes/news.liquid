@@ -9,11 +9,24 @@
     >
       <table class="table table-sm table-borderless">
         {% assign news = site.news | reverse %}
+        
+        {% comment %}
+        New
+        {% endcomment %}
+        {% if include.limit %}
+          {% assign news_limit = 3 %}
+        {% else %}
+          {% assign news_limit = news_size %}
+        {% endif %}
+
+        {% comment %}
         {% if include.limit and page.announcements.limit %}
           {% assign news_limit = page.announcements.limit %}
         {% else %}
           {% assign news_limit = news_size %}
         {% endif %}
+        {% endcomment %}
+
         {% for item in news limit: news_limit %}
           <tr>
             <th scope="row" style="width: 20%">{{ item.date | date: '%b %d, %Y' }}</th>
