@@ -14,9 +14,9 @@ nav_order: 3
     <img src="../assets/img/1.jpg" alt="">
     <div class="info">
       <h3>Person</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent at urna felis. 
+      <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent at urna felis. 
         Vivamus efficitur felis nec tempus accumsan. Phasellus vehicula ac lectus ut pharetra. 
-        Nunc dignissim laoreet gravida. Mauris semper.</p>
+        Nunc dignissim laoreet gravida. Mauris semper.</h3>
     </div>
   </div>
   <div class="stuff">
