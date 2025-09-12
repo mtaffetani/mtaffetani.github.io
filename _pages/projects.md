@@ -11,17 +11,17 @@ nav_order: 3
   <h2>Research</h2>
   <hr>
   <div class="stuff">
-  <!-- <img src="../assets/img/1.jpg" alt=""> -->
+  <img src="../assets/img/Fig7.pdf" alt=""> 
     <div class="info">
       <h3>Active solids</h3>
-      <h3>An active material is broadly defined as a material that dynamically respond to external stimuli: examples include biological material, like membranes and tissues, and artificially engineered structures, like connected robots. <i> What is the emerging, global behaviouru, induced by the local rules that control the activity?</i> In this project we focus on active solids where the activity is embedded via either a non-mechanical stimulus that causes an incompatible bulk effect or <i> odd <\i> elastic constitutive relationship. We aim to derive effective slender models from the three dimensional description and to study the emergent morphing induced by the activity in these systems. In a recent preprint we derived a fully non-linear model of stimuli responsive naturally curved shell to be used in the description of budding and vesiculation of solid membrane; we are currently study odd elastic plates and and limb fromation in growing domains.   </h3>
+      <h3>An active material is broadly defined as a material that dynamically respond to external stimuli: examples include biological material, like membranes and tissues, and artificially engineered structures, like connected robots. <i> What is the emerging, global behaviouru, induced by the local rules that control the activity?</i> In this project we focus on active solids where the activity is embedded via either a non-mechanical stimulus that causes an incompatible bulk effect or <i> odd </i> elastic constitutive relationship. We aim to derive effective slender models from the three dimensional description and to study the emergent morphing induced by the activity in these systems. In a recent preprint we derived a fully non-linear model of stimuli responsive naturally curved shell to be used in the description of budding and vesiculation of solid membrane; we are currently study odd elastic plates and and limb fromation in growing domains.  </h3>
     </div>
   </div>
   <div class="stuff">
     <img src="" alt="">
     <div class="info">
       <h3>Morphing in Slender Structures</h3>
-      <p><i>What determines how and when a slender structure changes shape, forms patterns, or jumps to a new stable state?</i> Bending, buckling, wrinkling and snapping in slender structure are due to the non-trivial interaction between geometry and constitutive properties and unvealing those hidden rules will provide principles that guide the design of responsive, bio-inspired, and functional materials capable of harnessing instabilities and patterns for novel mechanical functionality. In a recent work, we </p>
+      <p><i>What determines how and when a slender structure changes shape, forms patterns, or jumps to a new stable state?</i> Bending, buckling, wrinkling and snapping in slender structure are due to the non-trivial interaction between geometry and constitutive properties and unvealing those hidden rules will provide principles that guide the design of responsive, bio-inspired, and functional materials capable of harnessing instabilities and patterns for novel mechanical functionality. In a recent work, responds to open questions on the non-linear coupling between imperfection and oscillations in the dynamical evolution induced by bifurcations in indented arches, potentially to be generalized to any system sharing the same bifurcation landscape. </p>
     </div>
   </div>
   </div>
