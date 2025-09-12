@@ -28,7 +28,7 @@ nav_order: 3
     <div class="stuff">
     <img src="../assets/img/Localization.jpg" alt="">
     <div class="info">
-      <h3>LOCALIZATION</h3>
+      <h3>LOCALIZATION and METAMATERIALS</h3>
       <p>---</p>
     </div>
   </div>
