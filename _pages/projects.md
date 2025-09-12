@@ -42,7 +42,7 @@ nav_order: 3
       <p>Description.</p>
     </div>
   </div>
-  </div>
+
 
   <div class="section">
   <h2>Fun</h2>
@@ -62,4 +62,3 @@ nav_order: 3
     </div>
   </div>
   </div>
-</div>
