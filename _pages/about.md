@@ -6,7 +6,7 @@ subtitle: from mathematical models to physical insights in morphing for biologic
 
 profile:
   align: right
-  image: Front.jpeg
+  image: Front.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
    <!-- <p>Institute for Infrastructures and Environment</p>
