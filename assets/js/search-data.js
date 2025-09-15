@@ -423,8 +423,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/Xannouncement_2/";
-            },},{id: "projects-project-1",
-          title: 'project 1',
+            },},{id: "projects-active-solids",
+          title: 'ACTIVE SOLIDS',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
