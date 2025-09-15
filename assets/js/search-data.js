@@ -455,7 +455,7 @@ ninja.data = [{
               window.location.href = "/projects/6_project/";
             },},{id: "projects-active-solids",
           title: 'Active Solids',
-          description: "Emerging shapes in novel systmes",
+          description: "Morphing in Slender Structure",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{id: "projects-project-8",
