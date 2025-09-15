@@ -2,26 +2,26 @@
 layout: page
 ---
 <div class="post">
-   <div class="section">
+
+{% comment %}
+
+<div class="section">
     <h2>Members</h2>
     <hr>
     <div class="stuff">
       <img src="../assets/img/MT_photo.jpg" alt="">
       <div class="info">
         <h3>Matteo Taffetani</h3>
-        <p>Institute for Infrastructures and Environment</p>
-    <p>University of Edinburgh</p>
-    <p>Alexander Graham Bell Building, Office 3.12</p>
-    <p>Edinburgh (UK)</p>
-    <p>matteo.taffetani@ed.ac.uk</p>
+        <p>University of Edinburgh. Institute for Infrastructures and Environment</p>
+        <p>Alexander Graham Bell Building, Office 3.12 - matteo.taffetani@ed.ac.uk</p>
       </div>
     </div>
     <div class="stuff">
       <img src="" alt="">
       <div class="info">
         <h3>William Simpkins - PhD</h3>
-        <p>Multiple scale dynamic of snapping in slender systems.</p>
-        <p>william.simpkins@bristol.ac.uk</p>
+        <p>Multiple time scales dynamic of snapping in slender systems.</p>
+        <p>will.simpkins@bristol.ac.uk</p>
       </div>
     </div>
   </div>
@@ -43,10 +43,23 @@ layout: page
         <p>University of Edinburgh. Institute for Infrastructure and Environment.</p>
       </div>
     </div>
+ <div class="stuff">
+      <img src="" alt="">
+      <div class="info">
+        <h3>Matteo Pezzulla</h3>
+        <p>Aarhus University. Department of Mechanical and Production Engineering.</p>
+      </div>
+    </div>
+ <div class="stuff">
+      <img src="" alt="">
+      <div class="info">
+        <h3>Finn Box</h3>
+        <p>University of Manchester. Physics of Fluid and Soft Matter.</p>
+      </div>
+    </div>
 </div>
 
-
-{% comment %}
+{% endcomment %}
   <article>
     {% if page.profiles %}
       {% for profile in page.profiles %}
@@ -78,4 +91,4 @@ layout: page
       {% endfor %}
     {% endif %}
   </article>
-{% endcomment %}
+</div>
