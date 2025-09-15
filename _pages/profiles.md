@@ -24,4 +24,9 @@ profiles:
     content: about_friends.md
     image_circular: false # crops the image to make it circular
     more_info: >
+  - align: left
+    <!--image: friends.jpg-->
+    content: about_friends.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
 ---
