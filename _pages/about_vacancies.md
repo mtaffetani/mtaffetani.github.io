@@ -1,17 +1,12 @@
 <h3> Past students </h3>
 Roberto Fregonara. 2nd year summer internship UoE 2024. Buckling of curves sheet
-
 Ying Kit Tong. MSc Enginnering Mathematics 2023. Curvature control moprhing in beams
-
-Owen Bradeld. MSc Enginnering Mathematics 2023. Cellular growth in a deformable scaold
-
+Owen Bradfield. MSc Enginnering Mathematics 2023. Cellular growth in a deformable scaffold
 Shanshan Li.  MSc Enginnering Mathematics 2022. Sequential buckling in compressed beams on foundation
-
 Ellie Ryan. 2nd year summer internship UoB 2022. How a thin sheet curves
 
 <hr>
 <h3> Avaliable Opportunities </h3>
-Vacancies:
 We are looking for a PhD with interests in mathematical modelling and who are keen to develop numerical codes to support the theoretical analysis conducted.  
 This project suits candidates with backgrounds in Engineering Mathematics, Mechanical Engineering, Applied Mathematics and Physics.
 The project aims to develop new theories to understand the root causes of the active morphing of slender membrane-like structures (see the Soft and Active Solids project page).
