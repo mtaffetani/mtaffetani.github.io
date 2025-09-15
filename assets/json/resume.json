@@ -1,36 +1,21 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "name": "Matteo Taffetani",
+    "summary": "An engineer that fancies the rigour of mathematics to understand the morphable world.",
+    }
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Institute of Infrastructure and Environment, University of Edinburgh, Edinburgh (United Kingdom)",
+      "position": "Lecturer in Structures",
+      "startDate": "2023-10-21",
+      "endDate": "present"
+    },
+    {
+      "name": "Department of Engineering Mathematics, University of Bristol, Bristol (United Kingdom)",
+      "position": "Lecturer in Engineering Mathematics",
+      "startDate": "2020-10-22",
+      "endDate": "2023-10-21"
     }
   ],
   "volunteer": [
