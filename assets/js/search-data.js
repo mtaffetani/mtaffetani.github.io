@@ -423,11 +423,6 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/Xannouncement_2/";
-            },},{id: "projects-active-solids",
-          title: 'Active Solids',
-          description: "Emerging shapes in novel systems",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
@@ -468,6 +463,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-active-solids",
+          title: 'Active Solids',
+          description: "Emerging shapes in novel systems",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Project_ActiveSolids/";
             },},{
         id: 'social-email',
         title: 'email',
