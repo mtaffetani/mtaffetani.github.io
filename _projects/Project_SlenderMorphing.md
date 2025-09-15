@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Active Solids
-description: Morphing in Slender Structure
+title: Morphing in Slender Structure
+description: Multistability and Dynamics
 img: assets/img/SlenderMorphing.jpg
 importance: 1
 category: Research
