@@ -1,5 +1,5 @@
 
-<h3> Great ideas develops from discussions and collaborations with people </h3>
+<h3> Friends and Collaborators </h3>
 <ul>
    <li> <h3>Matt Hennessy</h3>
         <p>University of Bristol. School of Engineering Mathematics and Technology.</p></li>
