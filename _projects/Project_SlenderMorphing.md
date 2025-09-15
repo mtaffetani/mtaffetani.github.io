@@ -3,7 +3,7 @@ layout: page
 title: Morphing in Slender Structure
 description: Multistability and Dynamics
 img: assets/img/SlenderMorphing.jpg
-importance: 1
+importance: 2
 category: Research
 related_publications: true
 ---
