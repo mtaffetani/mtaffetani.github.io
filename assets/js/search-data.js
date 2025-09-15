@@ -423,11 +423,6 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/Xannouncement_2/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
@@ -468,6 +463,11 @@ ninja.data = [{
           description: "Multistability and Dynamics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Project_SlenderMorphing/";
+            },},{id: "projects-metawaves",
+          title: 'Metawaves',
+          description: "How metamaterials can harness energy",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Project_Waves/";
             },},{
         id: 'social-email',
         title: 'email',
