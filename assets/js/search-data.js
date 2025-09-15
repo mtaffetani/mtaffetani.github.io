@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/assets/CurriculumVitae_MatteoTaffetani.pdf";
           },
+        },{id: "nav-people",
+          title: "People",
+          description: "Members and Friends of TM3",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/people/";
+          },
         },{id: "nav-teaching",
           title: "Teaching",
           description: "",
