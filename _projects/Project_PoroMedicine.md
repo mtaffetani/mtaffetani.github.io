@@ -1,0 +1,13 @@
+---
+layout: page
+title: Articular Cartilage and Nanomedicine
+description: Poroelasticity and Multiple Scales Modelling
+img:  assets/img/Poroelasticity.jpg
+importance: 1
+category: Research
+related_publications: true
+---
+
+Articular cartilage is a tissue of fundamental importance for the mechanics of joints, providing a smooth and lubricated surface for the proper transmission of loads. This tissue has a complex microscopic architecture that results in a anisotropic poroviscoelastic material at the macroscopic level. Depending on the spatial and the time scale of the solicitation, it is possible to discriminate when the response is dominated by poroelastic or viscoelastic features while the fine mechanical behaviour can be studied only if non-homogeneous, spatial dependent and anisotropic properties are taken into account.
+
+Nanomedicine is the branch of nanotechnology devoted to the miniaturization of devices and to the functionalization of processes for the diagnosis and the design of tools of clinical use. In the perspective to develop patient-specific treatments and effective therapies against currently incurable diseases, biomechanical modelling plays a key role in enabling their translation to clinical practice. Establishing a dynamic interaction with experiments, a modelling approach is expected to allow investigating problems with lower economic burden, evaluating a larger range of conditions. Since biological systems have a wide range of typical characteristic length and time scales, a multiscale modelling approach is necessary both for providing a proper description of the biological complexity at the single scales, and for keeping the largest amount of functional interdependence among them.
