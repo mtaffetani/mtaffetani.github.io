@@ -1,6 +1,6 @@
 ---
 layout: about 
-title: T3M
+title: TM3
 permalink: /
 subtitle: from mathematical models to physical insights in morphing for biological and artificial systems 
 
