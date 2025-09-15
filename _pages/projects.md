@@ -63,7 +63,3 @@ horizontal: false
   {% endif %}
 {% endif %}
 </div>
-      <p>Description.</p>
-    </div>
-  </div> -->
-  
