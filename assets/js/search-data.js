@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-cv",
+          title: "CV",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/assets/CurriculumVitae_MatteoTaffetani.pdf";
+          },
         },{id: "nav-teaching",
           title: "Teaching",
           description: "",
