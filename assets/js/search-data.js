@@ -37,13 +37,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-people",
-          title: "People",
-          description: "Members and Friends of TM3",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
-          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
@@ -451,9 +444,9 @@ ninja.data = [{
           description: "How localizations forms in morphing thin objects and their interactions",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Project_Localizations/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-articular-cartilage-and-nanomedicine",
+          title: 'Articular Cartilage and Nanomedicine',
+          description: "Poroelasticity and Multiple Scales Modelling",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Project_PoroMedicine/";
             },},{id: "projects-morphing-in-slender-structure",
