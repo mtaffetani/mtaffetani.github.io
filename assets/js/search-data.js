@@ -448,9 +448,9 @@ ninja.data = [{
           description: "How localizations forms in morphing thin objects and their interactions",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Project_Localizations/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-articular-cartilage-and-nanomedicine",
+          title: 'Articular Cartilage and Nanomedicine',
+          description: "Poroelasticity and Multiple Scales Modelling",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Project_PoroMedicine/";
             },},{id: "projects-morphing-in-slender-structure",
