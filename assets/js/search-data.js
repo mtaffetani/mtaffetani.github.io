@@ -448,11 +448,6 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-active-solids",
-          title: 'Active Solids',
-          description: "Emerging shapes in novel systems",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/Project_ActiveSolids/";
             },},{id: "projects-localization",
           title: 'Localization',
           description: "How localizations forms in morphing thin objects and their interactions",
@@ -463,6 +458,11 @@ ninja.data = [{
           description: "Multistability and Dynamics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Project_SlenderMorphing/";
+            },},{id: "projects-soft-and-active-solids",
+          title: 'Soft and Active Solids',
+          description: "Emerging shapes in novel systems",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Project_SoftActiveSolids/";
             },},{id: "projects-metawaves",
           title: 'Metawaves',
           description: "How metamaterials can harness energy",
