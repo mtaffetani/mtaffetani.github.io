@@ -10,7 +10,7 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: left
-    image: MT_photo.jpg
+    image: MT_photo.jpeg
     content: about_MT.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -20,7 +20,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
   - align: left
-    image: friends.jpg
+    <!--image: friends.jpg-->
     content: about_friends.md
     image_circular: false # crops the image to make it circular
     more_info: >
