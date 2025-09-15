@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: People
-description: Members and Friends of MSSM
+description: Members and Friends of TM3
 nav: true
 nav_order: 7
 
