@@ -424,8 +424,8 @@ ninja.data = [{
           section: "News",handler: () => {
               window.location.href = "/news/Xannouncement_2/";
             },},{id: "projects-active-solids",
-          title: 'ACTIVE SOLIDS',
-          description: "with background image",
+          title: 'Active Solids',
+          description: "Emerging shapes in novel systems",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
