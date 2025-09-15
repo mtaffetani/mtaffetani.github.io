@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A work-in-progress description of the current and past interests.
+description: A <i>work-in-progress<\i> description of the group interests. If you are interested in my work, feel free to send a email.
 nav: true
 nav_order: 3
 display_categories: [Research, Fun]
