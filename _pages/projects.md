@@ -5,7 +5,7 @@ permalink: /projects/
 description: A work-in-progress description of the current and past interests.
 nav: true
 nav_order: 3
-display_categories: [Research, fun]
+display_categories: [Research, Fun]
 horizontal: false
 ---
 
