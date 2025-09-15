@@ -412,18 +412,21 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "news-a-long-announcement-with-details",
+          title: 'A long announcement with details',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/Xannouncement_2/";
             },},{id: "news-new-arxiv-paper-out-will-unlocked-the-the-role-of-the-non-linear-coupling-between-imperfection-and-oscillations-in-the-hierarchy-of-timescales-characterizing-the-dynamic-of-snap-through-in-arches-when-it-emerges-from-either-a-limit-point-bifurcation-or-a-pitchfork-bifurcation",
           title: 'New arxiv paper out. Will unlocked the the role of the non-linear coupling...',
           description: "",
           section: "News",},{id: "news-abstract-submission-for-the-workshop-slender-and-active-mechanics-of-emerging-materials-and-systems-in-edinburgh-on-the-4th-of-december-2025-is-now-open",
           title: 'Abstract submission for the workshop Slender and Active: Mechanics of Emerging Materials and...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-upcoming-workshop-in-cortona-italy-incontro-indam-cortona-2025-mathematical-model-and-methods-for-hierarchical-systems-in-mechanics-21-26-settembre-2025",
+          title: 'Upcoming workshop in Cortona (Italy). Incontro INdAM – Cortona 2025: “Mathematical Model and...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/Xannouncement_2/";
-            },},{id: "projects-project-5",
+          section: "News",},{id: "projects-project-5",
           title: 'project 5',
           description: "a project with a background image",
           section: "Projects",handler: () => {
@@ -448,9 +451,9 @@ ninja.data = [{
           description: "How localizations forms in morphing thin objects and their interactions",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Project_Localizations/";
-            },},{id: "projects-articular-cartilage-and-nanomedicine",
-          title: 'Articular Cartilage and Nanomedicine',
-          description: "Poroelasticity and Multiple Scales Modelling",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Project_PoroMedicine/";
             },},{id: "projects-morphing-in-slender-structure",
