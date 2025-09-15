@@ -1,65 +1,58 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+    - name: Name
+      value: Matteo Taffetani
     - name: Languages
-      value: English, German
+      value: Italian, English
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Lecturer in Structures
+      institution: Institute of Infrastructure and Environment, University of Edinburgh, Edinburgh (United Kingdom)
+      year: 23/10/2023 -- Present
+     # description:
+     #   - Description 1.
+     #   - Description 2.
+     #   - title: Description 3.
+         # contents:
+      #      - Sub-description 1.
+     #       - Sub-description 2.
+    - title: Lecturer in Engineering Mathematics
+      institution: Department of Engineering Mathematics, University of Bristol, Bristol (United Kingdom)
+      year: 22/09/2020 -- 23/10/2023 
+
+    - title: Postdoctoral Research Assistant - Scientic supervisor: Professor Sarah Waters
+      institution: Mathematical Institute, University of Oxford, Oxford (United Kingdom)
+      year: 01/10/2018 -- 21/09/2020
+      description: Mathematical modelling of poroelasticity for biological and engineered tissues
+
+    - title: Postdoctoral Research Assistant - Scientic supervisor: Professor Dominic Vella
+      institution:  Mathematical Institute, University of Oxford, Oxford (United Kingdom)
+      year: 01/10/2015 -- 30/09/2018
+      description: Analsysis and simulation of stability in thin elastic shells as part of the ERC-funded project `Geometry and Anomalous Dynamic Growth of Elastic Instabilities'
+
+    - title:  Postdoctoral Research Assistant - Scientic supervisor: Professor Pasquale Ciarletta
+      institution: MOX Laboratory, Department of Mathematics, Politecnico di Milano, Milano (Italy)
+      year: 01/05/2013 -- 30/09/2015
+      description: Mathematical modelling of nanoscale therapeutic systems and the stability in stretched bers with surface energies
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Politecnico di Milano, Milano (Italy)
+      year: 01/01/2010 -- 28/02/2013
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - PhD thesis. Frequency and time domain analysis on ber reinforced poroviscoelastic tissue, study on articular
+cartilage through nanoindentation tests at micrometric characteristic lengths. Supervisor. Professor Pasquale Vena
+    - title: Laurea Triennale + Laurea Specialisitica in Biomedical Engineering
+      institution:  Politecnico di Milano, Milano (Italy)
+      year: 09/2004  -- 07/2007
       description:
-        - Description 1.
-        - Description 2.
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+        - Master thesis. Shape optimization through multi-objective approach for the design of coronary stents
+        - Bachelor thesis. Active exoskeletons for lower limbs support
 
 - title: Open Source Projects
   type: time_table
