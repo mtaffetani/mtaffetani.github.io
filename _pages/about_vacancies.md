@@ -9,7 +9,7 @@ Ellie Ryan. 2nd year summer internship UoB 2022. How a thin sheet curves
 <h3> Avaliable Opportunities </h3>
 We are looking for a PhD with interests in mathematical modelling and who are keen to develop numerical codes to support the theoretical analysis conducted. <br> 
 <p></p>This project suits candidates with backgrounds in Engineering Mathematics, Mechanical Engineering, Applied Mathematics and Physics.<br>
-The project aims to develop new theories to understand the root causes of the active morphing of slender membrane-like structures (see the Soft and Active Solids project page).<\p><br>
+The project aims to develop new theories to understand the root causes of the active morphing of slender membrane-like structures (see the Soft and Active Solids project page).</p><br>
 If interested email <a href="mailto:matteo.taffetani@ed.ac.uk">Matteo</a>.
 
 <hr>
