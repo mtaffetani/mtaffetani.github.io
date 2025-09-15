@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-mssm",
-    title: "MSSM",
+    id: "nav-tm3",
+    title: "TM3",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
