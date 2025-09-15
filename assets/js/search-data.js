@@ -463,9 +463,9 @@ ninja.data = [{
           description: "How localizations forms in morphing thin objects and their interactions",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Project_Localizations/";
-            },},{id: "projects-active-solids",
-          title: 'Active Solids',
-          description: "Morphing in Slender Structure",
+            },},{id: "projects-morphing-in-slender-structure",
+          title: 'Morphing in Slender Structure',
+          description: "Multistability and Dynamics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Project_SlenderMorphing/";
             },},{
