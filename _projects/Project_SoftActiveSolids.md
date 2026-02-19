@@ -25,7 +25,7 @@ In this project we focus on active solids where the activity is embedded, using 
     © 2026 Matteo Taffetani
 </div>
 
-In a recent preprint we derived a fully non-linear model of stimuli responsive naturally curved shell to be used in the description of budding and vesiculation of solid-like shell. are currently study odd elastic plates and and limb fromation in growing domains.
+In a recent preprint {% cite taffetani2025 %} we derived a fully non-linear model of stimuli responsive naturally curved shell to be used in the description of budding and vesiculation of solid-like shell. are currently study odd elastic plates and and limb fromation in growing domains.
 
 Many interesting shapes appearing in the biological world or in artificial devices emerge from mechanical instability. Compressive strains are the most common cause of instabilities, as in residually stressed or indendented pressurized shells. Beads-on-string patterns experimentally observed in solid cylinders for a wide range of material properties and structural lengths, instead, seems to emerge under a state of tension: we have first explored this problem via the competition between bulk elasticity and surface tension, i.e. elastocapillarity; more recently, we accounted for the bending resistance of the surface by introducing a bending modulus and an incompatible mean curvature. This leads to a novel elastobendo mode of beading that gives rise to finite-wavelength patterns with spatially localized modulations in amplitude that have not been seen in this system before and we show how elastobendo beading can provide a new interpretation of the infinite-wavelength instability seen in the elastocapillary version of this problem.
 
