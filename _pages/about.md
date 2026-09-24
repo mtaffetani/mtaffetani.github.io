@@ -2,7 +2,7 @@
 layout: about 
 title: TL
 permalink: /
-subtitle: Nonlinear mechanics of morphing, instability and localisation
+subtitle: "Nonlinear mechanics of morphing, instability and localisation"
 
 profile:
   align: right
