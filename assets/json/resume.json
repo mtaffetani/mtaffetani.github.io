@@ -2,7 +2,6 @@
   "basics": {
     "name": "Matteo Taffetani",
     "summary": "Engineer with a mathematical soul that want to understand the hidden physics of morphing strategies",
-    },
     "profiles": [
       {
         "network": "Twitter",
@@ -14,9 +13,9 @@
   "work": [
     {
       "name": "Institute of Infrastructure and Environment, University of Edinburgh, Edinburgh (United Kingdom)",
-      "position": "Lecturer in Structures",
+      "position": "Lecturer in Structural Engineering",
       "startDate": "2023-10-23",
-      "endDate": "present"
+      "endDate": "present (fixed - term until 2027-10-22)"
     }
   ],
   "volunteer": [
