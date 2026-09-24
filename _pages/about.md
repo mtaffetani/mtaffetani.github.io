@@ -1,8 +1,8 @@
 ---
 layout: about 
-title: TM3
+title: TL
 permalink: /
-subtitle: from mathematical models to physical insights in morphing for biological and artificial systems 
+subtitle: Nonlinear mechanics of morphing, instability and localisation
 
 profile:
   align: right
