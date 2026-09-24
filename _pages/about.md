@@ -28,13 +28,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-The ability to shift shape or form patterns in response to stimuli is everywhere in nature, helping living systems carry out their tasks with remarkable efficiency. Engineers are now borrowing this idea, building artificial structures that use the same principles to boost performance. Exployting continuum morphing or rapid, instability-related, shape transitions are opportunities to unlock entirely new functions. 
+The Lab studies nonlinear continuum mechanics, with a focus on how soft and slender systems change shape, become unstable and localise deformation. We are interested in the physical mechanisms behind these transitions and in how they are affected by geometry, material response, activity and competing timescales.
 
-Mathematical modelling is a powerful tool to describe the behaviour of morphable solids and to guide experimental approches. Anyone that wants to contribute towards a general frameworks where scientists of different disciplines can interact towards the understanding and the design of morphing in biological materials and novel artificial structures is welcome.
+Current interests include morphoelasticity, instabilities and dynamics of slender structures, localisation and defects, and active or non-reciprocal materials.
 
-<ul>
-  <li>Continuum models in multiphysics and non-linear mechanics problems and their implementation in numerical codes.</li>
-  <li>Asymptotics for linear stability analysis and far-from-threshold analysis.</li>
-  <li>Dimensional reduction for the descripiton slender active materials.</li>
-  <li>Squishy matter and metamaterial.</li>
-</ul>
+We welcome students, researchers and collaborators interested in these problems, including people coming from applied mathematics, mechanics, physics and engineering.
